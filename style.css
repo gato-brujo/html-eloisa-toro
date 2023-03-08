@@ -13,6 +13,9 @@
   color: ivory;
 }
 .linea56 {
-  background-color: rgb(0, 0, 0);
-  color: ivory;
+  color: rgb(2, 187, 233);
+  text-transform: uppercase;
 }
+#linea7 {
+  font-size: 20px ;
+  text-shadow: 5px 9px rgba(0, 38, 165, 0.89);
